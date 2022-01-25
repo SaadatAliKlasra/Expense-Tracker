@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![React][react-sheild]
+[React][react-sheild]
 
 <!-- PROJECT LOGO -->
 <br />

@@ -17,11 +17,11 @@
 
 ## About The Project
 ### Homepage
-![Expense Tracker Homepage Screenshot][homepage-screenshot]
-This is the homepage that lists out all the added expenses in the database. Even though I've not added any database, I've stored all the expenses values in a variable that can be stored into any database using API (or any other database that you want)
+![Expense Tracker Homepage Screenshot][homepage-screenshot] </br>
+This is the homepage that lists out all the added expenses in the database. Even though I've not added any database, I've stored all the expenses values in a variable that can be stored into any database using API (or any other database that you want) </br>
 
 ### Add Expense
-![Expense Tracker Add Expense Screenshot][add-expense-screenshot]
+![Expense Tracker Add Expense Screenshot][add-expense-screenshot] </br>
 After clicking on Add New Expense button, you will end up seeing a new form to add a new expense which you can see in the screenshot. Here you can set the title, price, and also date for that specific expense.
 
 ## Getting Started

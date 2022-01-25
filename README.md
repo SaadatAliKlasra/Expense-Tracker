@@ -54,6 +54,6 @@ Getting started with this project is really simple because this is a mini projec
 
 [react-sheild]: https://img.shields.io/badge/-react-black.svg?style=for-the-badge&logo=react&colorB=555
 
-[homepage-screenshot]: images/homepage.jpg
-[add-expense-screenshot]: images/add-expense.jpg
+[homepage-screenshot]: Images/homepage.jpg
+[add-expense-screenshot]: Images/add-expense.jpg
 

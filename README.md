@@ -1,6 +1,5 @@
-<div id="top"></div>
 
-[React][react-sheild]
+![React][react-sheild]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,10 +10,6 @@
   <p align="center">
     A starter project to create an expense tracker website in React. 
     <br />
-    ·
-    <a href="https://github.com/SaadatAliKlasra/Expense-Tracker/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SaadatAliKlasra/Expense-Tracker/issues">Request Feature</a>
   </p>
 </div>
 
@@ -22,16 +17,16 @@
 
 ## About The Project
 ### Homepage
-[![Expense Tracker Homepage Screenshot][homepage-screenshot]]
-This is the homepage which lists out all the added expenses in the database. Even though I've not added any database, but I've stored all the expenses values in a variable which can be stored in to any database using api (or any other database that you want)
+![Expense Tracker Homepage Screenshot][homepage-screenshot]
+This is the homepage that lists out all the added expenses in the database. Even though I've not added any database, I've stored all the expenses values in a variable that can be stored into any database using API (or any other database that you want)
 
 ### Add Expense
-[![Expense Tracker Add Expense Screenshot][add-expense-screenshot]]
-After clicking on Add New Expense button, you will endup seeing a new form to add a new expense which you can see in the screenshot. Here you can set the title, price, and also date for that specific expense.
+![Expense Tracker Add Expense Screenshot][add-expense-screenshot]
+After clicking on Add New Expense button, you will end up seeing a new form to add a new expense which you can see in the screenshot. Here you can set the title, price, and also date for that specific expense.
 
 ## Getting Started
 
-Getting started with this project is really simple because this is a mini project and does not have advance features.
+Getting started with this project is really simple because this is a mini project and does not have advanced features.
 
 ### Installation
 
@@ -41,10 +36,9 @@ Getting started with this project is really simple because this is a mini projec
    ```
 2. Install nodejs
 3. Install Dependencies
-
-```sh
+   ```sh
     npx install
-```
+   ```
 
 4. Run Server
    ```sh

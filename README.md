@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React][react-sheild]
 
-## Available Scripts
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-In the project directory, you can run:
+  <h3 align="center">Expense Tracker (React Project)</h3>
 
-### `npm start`
+  <p align="center">
+    A starter project to create an expense tracker website in React. 
+    <br />
+    ·
+    <a href="https://github.com/SaadatAliKlasra/Expense-Tracker/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/SaadatAliKlasra/Expense-Tracker/issues">Request Feature</a>
+  </p>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
+### Homepage
+[![Expense Tracker Homepage Screenshot][homepage-screenshot]]
+This is the homepage which lists out all the added expenses in the database. Even though I've not added any database, but I've stored all the expenses values in a variable which can be stored in to any database using api (or any other database that you want)
 
-### `npm test`
+### Add Expense
+[![Expense Tracker Add Expense Screenshot][add-expense-screenshot]]
+After clicking on Add New Expense button, you will endup seeing a new form to add a new expense which you can see in the screenshot. Here you can set the title, price, and also date for that specific expense.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+Getting started with this project is really simple because this is a mini project and does not have advance features.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repo
+   ```sh
+   https://github.com/SaadatAliKlasra/Expense-Tracker.git
+   ```
+2. Install nodejs
+3. Install Dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+    npx install
+```
 
-### `npm run eject`
+4. Run Server
+   ```sh
+   npx start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[react-sheild]: https://img.shields.io/badge/-react-black.svg?style=for-the-badge&logo=react&colorB=555
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[homepage-screenshot]: images/homepage.jpg
+[add-expense-screenshot]: images/add-expense.jpg
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
